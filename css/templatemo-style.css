@@ -410,3 +410,12 @@ a > img{
 .bold{
 	font-weight: bold;
 }
+
+.project-info{
+	text-align: center;
+}
+
+.contact-resume{
+	text-decoration: none;
+	color: white;
+}
