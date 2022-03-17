@@ -385,6 +385,7 @@ figcaption {
 
 .links-container{
 	display: flex;
+	flex-direction: column;
 	justify-content: space-evenly;
 
 }
@@ -398,6 +399,7 @@ figcaption {
 
 	height: 50px;
 	display: flex;
+	/* flex-direction: column; */
 	justify-content: space-evenly;
 }
 
@@ -419,3 +421,25 @@ a > img{
 	text-decoration: none;
 	color: white;
 }
+/* 
+#project-info-yep{
+	display: none;
+	position: absolute;
+	top: 300px
+}
+#project-info-foodie{
+	display: none;
+	position: absolute;
+	top: 300px
+}
+#project-info-stock{
+	display: none;
+	position: absolute;
+	top: 300px
+} */
+/* .links-container > span{
+	border: 1px solid black;
+	border-radius: 10px;
+	width: 100%;
+	text-align: center;
+} */
